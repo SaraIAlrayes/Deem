@@ -21,7 +21,7 @@
 /* Title */
 .title-container {
   position: relative;
-  padding: 5% 10% 7%;
+  padding: 17% 10% 7%;
 }
 
 .title-content {
@@ -31,7 +31,7 @@
 .main-title {
   font-family: 'Tajawal', sans-serif;
   font-weight: 900;
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   color: #545454;
   padding-top: 2%;
   padding-bottom: 2%;
@@ -167,6 +167,7 @@
 .project-container {
   width: 100%;
   display: flex;
+  padding-bottom: 5%;
 }
 
 .project-details-right {
@@ -319,5 +320,9 @@
 .copyright {
   font-family: 'Tajawal', sans-serif;
   font-size: .7rem;
+  color: #999999;
+}
+
+.copyright:hover {
   color: #999999;
 }
