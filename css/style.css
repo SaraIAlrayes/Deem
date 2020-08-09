@@ -137,7 +137,7 @@
 
 .counter-count {
   font-family: 'Tajawal', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   color: #f2e8e6;
   border-bottom: 1px solid #f2e8e6;
   display: table;
@@ -146,7 +146,7 @@
 
 .counter-title {
   font-family: 'Tajawal', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-weight: 600;
   color: #f2e8e6;
 }
@@ -167,7 +167,7 @@
 .project-container {
   width: 100%;
   display: flex;
-  padding-bottom: 5%;
+  padding-bottom: 10%;
 }
 
 .project-details-right {
@@ -321,8 +321,13 @@
   font-family: 'Tajawal', sans-serif;
   font-size: .7rem;
   color: #999999;
+  margin-bottom: 0;
 }
 
-.copyright:hover {
+.copyright-link {
+  color: #999999;
+}
+
+.copyright-link:hover {
   color: #999999;
 }
