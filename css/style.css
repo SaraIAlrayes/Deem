@@ -323,3 +323,11 @@
   color: #999999;
   margin-bottom: 0;
 }
+
+.copyright-link {
+  color: #999999;
+}
+
+.copyright-link:hover {
+  color: #999999;
+}
